@@ -19,3 +19,8 @@
   
 ##### The get path helper functions in the Astar class performs heuristic and total cost calculations to minimize visited nodes and pick an optimized option between node paths resulting in parents connecting the best path that can be back tracked through the set parents of the nodes.
 # ![image](https://user-images.githubusercontent.com/65574434/177435693-7fa4eec5-6f76-45ac-a235-a4b0ca043b7b.png)
+
+
+# BUGS: 
+* Start cant be on the first 10 or the last ten of the map vector 
+* Map size restricted to 10 by 10
