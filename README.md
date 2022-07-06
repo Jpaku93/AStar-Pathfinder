@@ -8,6 +8,7 @@
 * Astar(char, int, int)
 
 ####### The Astar constructor takes A 10 by 10 Vector Matrix 
+*
 ![image](https://user-images.githubusercontent.com/65574434/177435164-19698080-67bb-4e40-acc6-2b0eb5c113a4.png)
 
 ####### The Matrix initializes the Maze output chars whith constructor to output according to the int value
